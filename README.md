@@ -1,5 +1,7 @@
 # ChatGPT for Educators
 
+> Available at [https://jonathansoma.com/chatgpt-for-educators/](https://jonathansoma.com/chatgpt-for-educators/). Apologies the alt text is awful, not sure why it didn't export!
+
 A talk on AI tools in the classroom I initially gave at an adjunct retreat for Columbia Journalism School.
 
 The recent spate of news articles seem to be a lot of doom and gloom about how it's going to ruin education, but without any concrete examples of *how* or suggestions on either sidestepping it or make it work for your classroom. So I wrote this talk to try to fill that gap!
